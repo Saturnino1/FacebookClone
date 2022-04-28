@@ -1,4 +1,3 @@
-HEllo this is my project
-   I
+I am just tasting my learnning about Git
 
-   Thank for read!
+      Be welcome on my profile

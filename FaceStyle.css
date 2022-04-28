@@ -1,0 +1,192 @@
+body{
+    font-family: arial;
+    background-color: rgb(219, 219, 219);
+}
+
+h1{
+  
+    color: white;
+    margin-top: 5px;
+    margin-left: 8px;
+}
+
+.login{
+    text-align: right;
+    margin-top: -50px;
+    margin: 2px;
+  
+}
+
+input[type=email]{
+    margin-inline-end: 8px;
+}
+input[type=password]{
+    margin-inline-end: 8px;
+}
+
+.p1{
+    margin-bottom: 2px;
+    margin-top: -65px;
+    color: white;
+    margin-right: 325px;
+}
+
+.p2{
+    margin-bottom: 2px;
+    margin-top: -20px;
+    color: white;
+    margin-right: 170px;
+
+}
+.p3{
+    margin-top: 2px;
+    color: rgb(201, 197, 197); 
+    margin-right: 126px;
+    font-size: 11pt;
+}
+
+.p3:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.title{  
+    margin-top: -7px;
+    background-color: rgb(20, 20, 247);
+    height: 70px;
+    margin-right: -8px;
+    margin-left: -8px;
+}
+
+input[type=submit]{
+    border-radius: 6px;
+   background-color: rgb(20, 20, 250);
+   color: white;
+}
+
+.niver{
+    margin-bottom: 1px;
+}
+
+input[type=date]{
+    height: 27px;
+    margin-top: -50px;
+    
+}
+
+.NewAcount{
+    margin-left: 65%;
+}
+
+h2{
+     color: black;
+     font-size: 30pt;
+}
+.free{
+    margin-top: -30px;
+} 
+
+
+.name1{
+    margin-inline-end: 2px;
+    margin-block-end: 8px;
+    width: 41%;
+    padding: 1% 2% 1% 2%;  
+    font-size: 12pt;
+    height: 30px;
+    border:1px solid black;
+    border-radius: 5px;
+}.name2{
+    margin-block-end: 8px;
+    width: 41%;
+    padding: 1% 2% 1% 2%;  
+    font-size: 12pt;
+    height: 30px;
+    border:1px solid black;
+    border-radius: 5px;
+}
+
+.email{
+    margin-block-end: 8px;
+    display: block;
+    width: 88%;
+    padding: 1% 2% 1% 2%;  
+    font-size: 12pt;
+    height: 30px;
+    border:1px solid black;
+    border-radius: 5px;
+    color: black;
+  
+    
+}
+.pass{
+    margin-block-end: 12px;
+    display: block;
+    width: 88%;
+    padding: 1% 2% 1% 2%;  
+    font-size: 12pt;
+    height: 30px;
+    border:1px solid black;
+    border-radius: 5px;
+  
+}
+input{
+    outline: none;
+    color: black;
+
+}
+
+.question{
+    color: rgb(23, 23, 238);
+    font-size: 10pt;
+    margin-left: 35%;
+    margin-top: -30px;
+    
+}.question:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+a{
+    color:rgb(19, 19, 241);
+}a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+.terms{
+margin-top: 10%;
+font-size: 9pt;
+}
+
+input[type=reset]{
+    color: white;
+    background-color: rgb(29, 175, 29);
+    margin-inline-end: 2px;
+    width: 45%;
+    padding: 1% 2% 1% 2%;  
+    font-size: 12pt;
+    height: 35px;
+    border:1px solid black;
+    border-radius: 5px;
+
+}
+
+input[type=radio]{
+    margin-top: 3%;
+}
+
+.imagem{
+    margin-right: 65%;
+   margin-top: -500px;
+   margin-left: 50px;
+
+}
+
+
+ 
+
+
+
+
